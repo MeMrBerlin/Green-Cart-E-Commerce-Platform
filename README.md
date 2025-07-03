@@ -137,20 +137,45 @@ npm run dev
 
 ## 📸 Full Website Preview (Screenshots)
 
+## 🖼️ Application Screenshots
 
-![Add Product Page](ScreenShots/Addproductpage.png)  
-![Address Page](ScreenShots/AddressPage.png)  
-![Admin Login Page](ScreenShots/AdminLogin.png)  
-![All Products Page](ScreenShots/AllProductsPage.png)  
-![Cart Page](ScreenShots/CartPage.png)  
-![Footer Page](ScreenShots/FooterPage.png)  
-![Home Page](ScreenShots/Home.png)  
-![Login Page](ScreenShots/LoginPage.png)  
-![My Orders Page](ScreenShots/MyOrderspage.png)  
-![Payment Page](ScreenShots/PaymentPage.png)  
-![Product List Page](ScreenShots/Productlistpage.png)  
+### 🔐 Login Page
+![Login Page](ScreenShots/LoginPage.png)
+
+### 🏠 Home Page
+![Home Page](ScreenShots/Home.png)
+
+### 🔻 Footer Section
+![Footer Page](ScreenShots/FooterPage.png)
+
+### 🛍️ All Products Listing
+![All Products Page](ScreenShots/AllProductsPage.png) 
+
+### 🛒 Cart View
+![Cart Page](ScreenShots/CartPage.png)
+
+### 🧾 Address Entry Page
+![Address Page](ScreenShots/AddressPage.png)
+
+### 💳 Payment Integration
+![Payment Page](ScreenShots/PaymentPage.png)
+
+### 📦 User Order History
+![My Orders Page](ScreenShots/MyOrderspage.png)
+
+### 🧑‍💼 Admin Login Dashboard
+![Admin Login Page](ScreenShots/AdminLogin.png)
+
+### ➕ Add Product Interface
+![Add Product Page](ScreenShots/Addproductpage.png)
+
+### 🗂️ Product List View (Seller)
+![Product List Page](ScreenShots/Productlistpage.png) 
+
+### 📑 Seller Order Management
 ![Seller Orders Page](ScreenShots/sellerOrderspage.png)
 
------
-## - BY
+---
+
+## By
 Charishma
