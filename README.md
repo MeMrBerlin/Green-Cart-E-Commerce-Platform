@@ -173,9 +173,8 @@ npm run dev
 ![Product List Page](ScreenShots/Productlistpage.png) 
 
 ### 📑 Seller Order Management
-![Seller Orders Page](ScreenShots/sellerOrderspage.png)
+![Seller Orders Page](ScreenShots/SellerOrderspage.png)
 
 ---
 
-## By
-Charishma
+## - By Charishma
