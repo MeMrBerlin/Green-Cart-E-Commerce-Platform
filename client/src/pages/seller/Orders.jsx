@@ -40,14 +40,20 @@ const Orders = () => {
                 alt="boxIcon"
               />
               <div>
-                {order.items.map((item, index) => (
+              {order.items.map((item, index) => (
+                item.product ? (
                   <div key={index} className="flex flex-col">
                     <p className="font-medium">
                       {item.product.name}{" "}
                       <span className="text-primary">x {item.quantity}</span>
                     </p>
                   </div>
-                ))}
+                ) : (
+                  <div key={index} className="text-red-500">
+                    Product information is not available for this item.
+                  </div>
+                )
+              ))}
               </div>
             </div>
 
