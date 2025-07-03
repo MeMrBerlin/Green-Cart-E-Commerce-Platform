@@ -2,7 +2,13 @@
 
 **GreenCart** is a modern full-stack e-commerce platform designed to bring **fresh groceries** and **daily essentials** directly to your doorstep. With intuitive browsing, seamless shopping, and powerful seller tools, GreenCart empowers both consumers and local sellers to thrive in a digital-first grocery ecosystem.
 
+
+🔗 **Live Links**  
+- 🌐 Frontend: [https://greencart-roan-mu.vercel.app](https://greencart-roan-mu.vercel.app)  
+- 🔧 Backend: [https://greencart-backend-orpin.vercel.app](https://greencart-backend-orpin.vercel.app)
+
 ---
+
 
 ## 🌟 Features at a Glance
 
