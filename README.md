@@ -2,13 +2,12 @@
 
 **GreenCart** is a modern full-stack e-commerce platform designed to bring **fresh groceries** and **daily essentials** directly to your doorstep. With intuitive browsing, seamless shopping, and powerful seller tools, GreenCart empowers both consumers and local sellers to thrive in a digital-first grocery ecosystem.
 
+🔗 **Live Links**
 
-🔗 **Live Links**  
-- 🌐 Frontend: [https://greencart-roan-mu.vercel.app](https://greencart-roan-mu.vercel.app)  
+- 🌐 Frontend: [https://greencart-roan-mu.vercel.app](https://greencart-roan-mu.vercel.app)
 - 🔧 Backend: [https://greencart-backend-orpin.vercel.app](https://greencart-backend-orpin.vercel.app)
 
 ---
-
 
 ## 🌟 Features at a Glance
 
@@ -25,24 +24,23 @@
 
 ## 🛠️ Tech Stack
 
-| Category         | Tech Used                             |
-|------------------|----------------------------------------|
-| **Frontend**     | React, Vite, Tailwind CSS / CSS        |
-| **Backend**      | Node.js, Express.js                    |
-| **Database**     | MongoDB (Mongoose)                     |
-| **Authentication** | JWT, bcrypt                         |
-| **Image Uploads**| Cloudinary                            |
-| **Payments**     | Stripe                                 |
-| **Environment**  | dotenv                                 |
+| Category           | Tech Used                       |
+| ------------------ | ------------------------------- |
+| **Frontend**       | React, Vite, Tailwind CSS / CSS |
+| **Backend**        | Node.js, Express.js             |
+| **Database**       | MongoDB (Mongoose)              |
+| **Authentication** | JWT, bcrypt                     |
+| **Image Uploads**  | Cloudinary                      |
+| **Payments**       | Stripe                          |
+| **Environment**    | dotenv                          |
 
 ---
 
 ## 📁 Project Structure
 
 greencart/
-├── client/     # React frontend
-└── server/     # Node.js + Express backend
-
+├── client/ # React frontend
+└── server/ # Node.js + Express backend
 
 ---
 
@@ -69,7 +67,6 @@ CLOUDINARY_API_KEY=your_cloudinary_key
 CLOUDINARY_API_SECRET=your_cloudinary_secret
 STRIPE_SECRET_KEY=your_stripe_key
 
-
 ---
 
 ### 📦 Install Dependencies
@@ -80,13 +77,11 @@ bash
 cd server
 npm install
 
-
 #### Frontend Setup
 
 bash
 cd client
 npm install
-
 
 ---
 
@@ -112,14 +107,14 @@ npm run dev
 
 ## 🔄 API Endpoints Overview
 
-| Route Prefix       | Description                                |
-|--------------------|--------------------------------------------|
-| /api/user        | Register, login, logout, auth status       |
-| /api/product     | Browse, view, and manage products          |
-| /api/cart        | Add/remove items from shopping cart        |
-| /api/order       | Place orders, view order history           |
-| /api/seller      | Seller login, dashboard, product control   |
-| /api/address     | User address management                    |
+| Route Prefix | Description                              |
+| ------------ | ---------------------------------------- |
+| /api/user    | Register, login, logout, auth status     |
+| /api/product | Browse, view, and manage products        |
+| /api/cart    | Add/remove items from shopping cart      |
+| /api/order   | Place orders, view order history         |
+| /api/seller  | Seller login, dashboard, product control |
+| /api/address | User address management                  |
 
 ---
 
@@ -146,41 +141,53 @@ npm run dev
 ## 🖼️ Application Screenshots
 
 ### 🔐 Login Page
+
 ![Login Page](ScreenShots/LoginPage.png)
 
 ### 🏠 Home Page
+
 ![Home Page](ScreenShots/Home.png)
 
 ### 🔻 Footer Section
+
 ![Footer Page](ScreenShots/FooterPage.png)
 
 ### 🛍️ All Products Listing
-![All Products Page](ScreenShots/AllProductsPage.png) 
+
+![All Products Page](ScreenShots/AllProductsPage.png)
 
 ### 🛒 Cart View
+
 ![Cart Page](ScreenShots/CartPage.png)
 
 ### 🧾 Address Entry Page
+
 ![Address Page](ScreenShots/AddressPage.png)
 
 ### 💳 Payment Integration
+
 ![Payment Page](ScreenShots/PaymentPage.png)
 
 ### 📦 User Order History
+
 ![My Orders Page](ScreenShots/MyOrderspage.png)
 
 ### 🧑‍💼 Admin Login Dashboard
+
 ![Admin Login Page](ScreenShots/AdminLogin.png)
 
 ### ➕ Add Product Interface
+
 ![Add Product Page](ScreenShots/Addproductpage.png)
 
 ### 🗂️ Product List View (Seller)
-![Product List Page](ScreenShots/Productlistpage.png) 
+
+![Product List Page](ScreenShots/Productlistpage.png)
 
 ### 📑 Seller Order Management
+
 ![Seller Orders Page](ScreenShots/SellerOrderspage.png)
 
 ---
 
-## - By Charishma
+## - By Nishan
